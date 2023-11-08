@@ -1,0 +1,247 @@
+CALLE,COLONIA,CAPITAL,ESTADO
+Calle 1, Colonia Bella Vista, Ciudad de México
+Avenida Revolución, Colonia San Juan, Guadalajara, Jalisco
+Calle Reforma, Colonia Centro, Monterrey, Nuevo León
+Privada Morelos, Colonia Lomas del Sol, Puebla, Puebla
+Calle Juárez, Colonia Juárez, Tijuana, Baja California
+Calle Hidalgo, Colonia Centro, León, Guanajuato
+Avenida Benito Juárez, Colonia San Pedro, Zapopan, Jalisco
+Calle Allende, Colonia San Miguel, Ciudad Juárez, Chihuahua
+Calle Madero, Colonia Centro, Mérida, Yucatán
+Calle Guerrero, Colonia San Antonio, Toluca, Estado de México
+Avenida Insurgentes, Colonia Condesa, Ciudad de México
+Calle Zaragoza, Colonia Centro, Monterrey, Nuevo León
+Avenida Constitución, Colonia Benito Juárez, Guadalajara, Jalisco
+Calle Colón, Colonia Zona Centro, Puebla, Puebla
+Calle Hidalgo, Colonia El Mirador, Tijuana, Baja California
+Avenida Las Américas, Colonia del Valle, León, Guanajuato
+Calle Morelos, Colonia El Rosario, Zapopan, Jalisco
+Avenida Miguel Hidalgo, Colonia Centro, Ciudad Juárez, Chihuahua
+Calle Benito Juárez, Colonia Santa Ana, Mérida, Yucatán
+Calle Alemán, Colonia Los Álamos, Toluca, Estado de México
+Avenida Reforma, Colonia Polanco, Ciudad de México
+Calle Gómez, Colonia Zona Rosa, Monterrey, Nuevo León
+Avenida Independencia, Colonia Centro, Guadalajara, Jalisco
+Calle Allende, Colonia San Francisco, Puebla, Puebla
+Avenida Juárez, Colonia Zona Este, Tijuana, Baja California
+Calle Mendoza, Colonia El Centro, León, Guanajuato
+Avenida Cuauhtémoc, Colonia Moderna, Zapopan, Jalisco
+Calle Morelos, Colonia El Dorado, Ciudad Juárez, Chihuahua
+Calle Ayala, Colonia Santa Lucía, Mérida, Yucatán
+Avenida Iturbide, Colonia Centro, Toluca, Estado de México
+Calle Guerrero, Colonia San Rafael, Ciudad de México
+Calle Benito Juárez, Colonia Zona Oeste, Monterrey, Nuevo León
+Avenida Lerdo de Tejada, Colonia Providencia, Guadalajara, Jalisco
+Calle Hidalgo, Colonia La Paz, Puebla, Puebla
+Calle Insurgentes, Colonia Miramar, Tijuana, Baja California
+Avenida Zaragoza, Colonia Obrera, León, Guanajuato
+Calle Miguel Hidalgo, Colonia San Isidro, Zapopan, Jalisco
+Avenida Colón, Colonia Benito Juárez, Ciudad Juárez, Chihuahua
+Calle Juárez, Colonia Santa María, Mérida, Yucatán
+Calle Jardín, Colonia Villa Flores, Toluca, Estado de México
+Avenida Revolución, Colonia San Ángel, Ciudad de México
+Calle Cuauhtémoc, Colonia Reforma, Monterrey, Nuevo León
+Avenida Independencia, Colonia Las Palmas, Guadalajara, Jalisco
+Calle Allende, Colonia San Pedro, Puebla, Puebla
+Calle Madero, Colonia Lomas del Norte, Tijuana, Baja California
+Avenida Reforma, Colonia El Sauzal, León, Guanajuato
+Calle Morelos, Colonia Lomas de San Isidro, Zapopan, Jalisco
+Avenida Benito Juárez, Colonia San Agustín, Ciudad Juárez, Chihuahua
+Calle Hidalgo, Colonia Guadalupe, Mérida, Yucatán
+Calle Alemán, Colonia Lomas del Valle, Toluca, Estado de México
+Avenida Juárez, Colonia Polanco, Ciudad de México
+Calle Guerrero, Colonia Zona Centro, Monterrey, Nuevo León
+Avenida Constitución, Colonia La Noria, Guadalajara, Jalisco
+Calle Colón, Colonia San Felipe, Puebla, Puebla
+Calle Zaragoza, Colonia El Florido, Tijuana, Baja California
+Avenida Insurgentes, Colonia San Antonio, León, Guanajuato
+Calle Morelos, Colonia El Rosarito, Zapopan, Jalisco
+Avenida Miguel Hidalgo, Colonia Lomas del Valle, Ciudad Juárez, Chihuahua
+Calle Benito Juárez, Colonia Las Margaritas, Mérida, Yucatán
+Calle Alemán, Colonia Santa Cruz, Toluca, Estado de México
+Avenida Reforma, Colonia Roma, Ciudad de México
+Calle Juárez, Colonia San Isidro, Monterrey, Nuevo León
+Avenida Independencia, Colonia Las Haciendas, Guadalajara, Jalisco
+Calle Allende, Colonia El Palomar, Puebla, Puebla
+Calle Hidalgo, Colonia Zona Este, Tijuana, Baja California
+Avenida Revolución, Colonia Los Pinos, León, Guanajuato
+Calle Mendoza, Colonia La Condesa, Zapopan, Jalisco
+Avenida Cuauhtémoc, Colonia San Juan Bosco, Ciudad Juárez, Chihuahua
+Calle Morelos, Colonia Los Laureles, Mérida, Yucatán
+Calle Ayala, Colonia La Joya, Toluca, Estado de México
+Avenida Juárez, Colonia Zona Oeste, Ciudad de México
+Calle Gómez, Colonia San Antonio, Monterrey, Nuevo León
+Avenida Lerdo de Tejada, Colonia El Carmen, Guadalajara, Jalisco
+Calle Insurgentes, Colonia Lomas de Guadalupe, Puebla, Puebla
+Calle Zaragoza, Colonia El Parque, Tijuana, Baja California
+Avenida Reforma, Colonia Lomas de San Gabriel, León, Guanajuato
+Calle Morelos, Colonia Lomas del Mirador, Zapopan, Jalisco
+Avenida Benito Juárez, Colonia Las Águilas, Ciudad Juárez, Chihuahua
+Calle Madero, Colonia Santa Cruz, Mérida, Yucatán
+Calle Guerrero, Colonia El Sol, Toluca, Estado de México
+Avenida Constitución, Colonia Las Brisas, Ciudad de México
+Calle Hidalgo, Colonia San Felipe, Monterrey, Nuevo León
+Avenida Revolución, Colonia El Paraíso, Guadalajara, Jalisco
+Calle Alemán, Colonia Lomas de San Andrés, Puebla, Puebla
+Calle Juárez, Colonia El Rincón, Tijuana, Baja California
+Avenida Independencia, Colonia La Sierra, León, Guanajuato
+Calle Allende, Colonia San Pedro, Zapopan, Jalisco
+Avenida Benito Juárez, Colonia Los Pinos, Ciudad Juárez, Chihuahua
+Calle Miguel Hidalgo, Colonia Santa Rosa, Mérida, Yucatán
+Calle Cuauhtémoc, Colonia Los Laureles, Toluca, Estado de México
+Avenida Reforma, Colonia El Bosque, Ciudad de México
+Calle Mendoza, Colonia La Colina, Monterrey, Nuevo León
+Calle Morelos, Colonia Lomas de San Isidro, Guadalajara, Jalisco
+Avenida Constitución, Colonia El Cerrito, Puebla, Puebla
+Calle Hidalgo, Colonia Zona Norte, Tijuana, Baja California
+Avenida Insurgentes, Colonia La Pradera, León, Guanajuato
+Calle Guerrero, Colonia El Pueblito, Zapopan, Jalisco
+Calle Benito Juárez, Colonia Santa María, Ciudad Juárez, Chihuahua
+Calle Allende, Colonia Las Delicias, Mérida, Yucatán
+Avenida Juárez, Colonia La Joya, Toluca, Estado de México
+Calle Zaragoza, Colonia San Isidro, Ciudad de México
+Avenida Revolución, Colonia El Sol, Monterrey, Nuevo León
+Calle Cuauhtémoc, Colonia Los Laureles, Guadalajara, Jalisco
+Avenida Benito Juárez, Colonia El Rincón, Puebla, Puebla
+Calle Morelos, Colonia Santa Cruz, Tijuana, Baja California
+Calle Madero, Colonia La Pradera, León, Guanajuato
+Avenida Reforma, Colonia San Felipe, Zapopan, Jalisco
+Calle Guerrero, Colonia El Bosque, Ciudad Juárez, Chihuahua
+Calle Hidalgo, Colonia Las Delicias, Mérida, Yucatán
+Avenida Independencia, Colonia Santa María, Toluca, Estado de México
+Calle Allende, Colonia San Isidro, Ciudad de México
+Calle Juárez, Colonia Los Pinos, Monterrey, Nuevo León
+Avenida Constitución, Colonia El Pueblito, Guadalajara, Jalisco
+Calle Benito Juárez, Colonia La Colina, Puebla, Puebla
+Calle Alemán, Colonia La Pradera, Tijuana, Baja California
+Avenida Insurgentes, Colonia Las Delicias, León, Guanajuato
+Calle Zaragoza, Colonia San Felipe, Zapopan, Jalisco
+Calle Morelos, Colonia El Bosque, Ciudad Juárez, Chihuahua
+Avenida Juárez, Colonia Santa María, Mérida, Yucatán
+Calle Revolución, Colonia San Isidro, Toluca, Estado de México
+Calle Cuauhtémoc, Colonia Los Pinos, Ciudad de México
+Calle Guerrero, Colonia La Colina, Monterrey, Nuevo León
+Avenida Reforma, Colonia La Pradera, Guadalajara, Jalisco
+Calle Allende, Colonia Santa Cruz, Puebla, Puebla
+Calle Madero, Colonia El Pueblito, Tijuana, Baja California
+Avenida Benito Juárez, Colonia Las Delicias, León, Guanajuato
+Calle Hidalgo, Colonia San Felipe, Zapopan, Jalisco
+Calle Morelos, Colonia El Bosque, Ciudad Juárez, Chihuahua
+Calle Zaragoza, Colonia Santa María, Mérida, Yucatán
+Avenida Insurgentes, Colonia San Isidro, Toluca, Estado de México
+Calle Juárez, Colonia Los Pinos, Ciudad de México
+Calle Revolución, Colonia El Sol, Monterrey, Nuevo León
+Avenida Constitución, Colonia La Colina, Guadalajara, Jalisco
+Calle Cuauhtémoc, Colonia La Pradera, Puebla, Puebla
+Calle Guerrero, Colonia El Pueblito, Tijuana, Baja California
+Calle Benito Juárez, Colonia Las Delicias, León, Guanajuato
+Calle Madero, Colonia San Felipe, Zapopan, Jalisco
+Avenida Reforma, Colonia El Bosque, Ciudad Juárez, Chihuahua
+Calle Allende, Colonia Santa María, Mérida, Yucatán
+Calle Hidalgo, Colonia San Isidro, Toluca, Estado de México
+Calle Morelos, Colonia Los Pinos, Ciudad de México
+Calle Juárez, Colonia El Sol, Monterrey, Nuevo León
+Avenida Independencia, Colonia La Colina, Guadalajara, Jalisco
+Calle Revolución, Colonia La Pradera, Puebla, Puebla
+Calle Guerrero, Colonia El Pueblito, Tijuana, Baja California
+Calle Zaragoza, Colonia Las Delicias, León, Guanajuato
+Calle Benito Juárez, Colonia San Felipe, Zapopan, Jalisco
+Calle Madero, Colonia El Bosque, Ciudad Juárez, Chihuahua
+Calle Hidalgo, Colonia Santa María, Mérida, Yucatán
+Calle Allende, Colonia San Isidro, Toluca, Estado de México
+Calle Morelos, Colonia Los Pinos, Ciudad de México
+Calle Cuauhtémoc, Colonia El Sol, Monterrey, Nuevo León
+Avenida Reforma, Colonia La Colina, Guadalajara, Jalisco
+Calle Revolución, Colonia La Pradera, Puebla, Puebla
+Calle Guerrero, Colonia El Pueblito, Tijuana, Baja California
+Calle Benito Juárez, Colonia Las Delicias, León, Guanajuato
+Calle Hidalgo, Colonia Juárez, Ciudad de México, Ciudad de México
+Avenida Benito Juárez, Colonia Emiliano Zapata, Cancún, Quintana Roo
+Calle Madero, Colonia Centro, Guadalajara, Jalisco
+Calle Morelos, Colonia La Paz, Puebla, Puebla
+Avenida Constitución, Colonia Centro, Monterrey, Nuevo León
+Calle Zaragoza, Colonia Reforma, Oaxaca, Oaxaca
+Avenida Cuauhtémoc, Colonia Roma, Ciudad de México, Ciudad de México
+Calle Allende, Colonia San Miguel, Querétaro, Querétaro
+Avenida Revolución, Colonia Del Valle, Ciudad de México, Ciudad de México
+Calle Colón, Colonia Zona Centro, Mérida, Yucatán
+Avenida Insurgentes, Colonia Condesa, Ciudad de México, Ciudad de México
+Calle Hidalgo, Colonia Centro, Tijuana, Baja California
+Avenida Morelos, Colonia Centro, Pachuca, Hidalgo
+Calle Juárez, Colonia Centro, Cuernavaca, Morelos
+Avenida Libertad, Colonia Del Paseo, León, Guanajuato
+Calle Reforma, Colonia La Paz, Puebla, Puebla
+Avenida Independencia, Colonia San Ángel, Ciudad de México, Ciudad de México
+Calle Obregón, Colonia El Centro, Hermosillo, Sonora
+Avenida Juárez, Colonia Centro, Torreón, Coahuila
+Calle 5 de Mayo, Colonia Zona Centro, Toluca, Estado de México
+Avenida Madero, Colonia Centro, Xalapa, Veracruz
+Calle Matamoros, Colonia Centro, Chihuahua, Chihuahua
+Avenida Hidalgo, Colonia Zona Centro, Durango, Durango
+Calle Guerrero, Colonia Centro, Tuxtla Gutiérrez, Chiapas
+Avenida Ocampo, Colonia Centro, Morelia, Michoacán
+Calle Benito Juárez, Colonia Centro, Zacatecas, Zacatecas
+Avenida Carranza, Colonia Centro, Saltillo, Coahuila
+Calle Rayón, Colonia Zona Centro, Ciudad Victoria, Tamaulipas
+Avenida González, Colonia Centro, Celaya, Guanajuato
+Calle Zaragoza, Colonia Centro, Culiacán, Sinaloa
+Avenida Revolución, Colonia Zona Centro, Mexicali, Baja California
+Calle Morelos, Colonia Centro, Tlaxcala, Tlaxcala
+Avenida Insurgentes, Colonia Centro, San Luis Potosí, San Luis Potosí
+Calle Allende, Colonia Zona Centro, Pachuca, Hidalgo
+Avenida Colón, Colonia Centro, Campeche, Campeche
+Calle Guerrero, Colonia Centro, Villahermosa, Tabasco
+Avenida Ocampo, Colonia Centro, Querétaro, Querétaro
+Calle Juárez, Colonia Centro, Tepic, Nayarit
+Avenida Madero, Colonia Centro, Mérida, Yucatán
+Calle Hidalgo, Colonia Centro, Aguascalientes, Aguascalientes
+Avenida Constitución, Colonia Zona Centro, La Paz, Baja California Sur
+Calle Morelos, Colonia Zona Centro, Tuxtla Gutiérrez, Chiapas
+Avenida Juárez, Colonia Centro, Culiacán, Sinaloa
+Calle Matamoros, Colonia Centro, Colima, Colima
+Avenida Reforma, Colonia Centro, Durango, Durango
+Calle Rayón, Colonia Zona Centro, Oaxaca, Oaxaca
+Avenida Carranza, Colonia Centro, Chetumal, Quintana Roo
+Calle Benito Juárez, Colonia Centro, Chilpancingo, Guerrero
+Avenida González, Colonia Zona Centro, Toluca, Estado de México
+Calle Guerrero, Colonia Centro, Mazatlán, Sinaloa
+Avenida Ocampo, Colonia Centro, Ciudad Victoria, Tamaulipas
+Calle Allende, Colonia Centro, Coatzacoalcos, Veracruz
+Avenida Insurgentes, Colonia Zona Centro, Campeche, Campeche
+Calle Zaragoza, Colonia Centro, Tlaxcala, Tlaxcala
+Avenida Revolución, Colonia Zona Centro, Ciudad del Carmen, Campeche
+Calle Morelos, Colonia Centro, Tampico, Tamaulipas
+Avenida Juárez, Colonia Zona Centro, Ensenada, Baja California
+Calle Madero, Colonia Centro, Cuautla, Morelos
+Avenida Independencia, Colonia Zona Centro, Chetumal, Quintana Roo
+Calle Hidalgo, Colonia Centro, Acapulco, Guerrero
+Avenida Constitución, Colonia Zona Centro, San Cristóbal de las Casas, Chiapas
+Calle Matamoros, Colonia Centro, Poza Rica, Veracruz
+Avenida Morelos, Colonia Zona Centro, Ciudad Guzmán, Jalisco
+Calle Allende, Colonia Centro, Colima, Colima
+Avenida Carranza, Colonia Zona Centro, Tepic, Nayarit
+Calle Obregón, Colonia Centro, Orizaba, Veracruz
+Avenida Ocampo, Colonia Zona Centro, Uruapan, Michoacán
+Calle Guerrero, Colonia Centro, Cozumel, Quintana Roo
+Avenida Madero, Colonia Zona Centro, Ciudad Obregón, Sonora
+Calle Revolución, Colonia Centro, Los Mochis, Sinaloa
+Avenida Colón, Colonia Zona Centro, Tampico, Tamaulipas
+Calle Benito Juárez, Colonia Centro, Toluca, Estado de México
+Avenida Insurgentes, Colonia Zona Centro, Puebla, Puebla
+Calle Juárez, Colonia Centro, Durango, Durango
+Avenida González, Colonia Zona Centro, Mérida, Yucatán
+Calle Rayón, Colonia Centro, Oaxaca, Oaxaca
+Avenida Reforma, Colonia Zona Centro, Ciudad Victoria, Tamaulipas
+Calle Zaragoza, Colonia Centro, Villahermosa, Tabasco
+Avenida Juárez, Colonia Zona Centro, La Paz, Baja California Sur
+Calle Morelos, Colonia Centro, Chihuahua, Chihuahua
+Avenida Madero, Colonia Zona Centro, Ciudad Valles, San Luis Potosí
+Calle Hidalgo, Colonia Centro, Tuxtla Gutiérrez, Chiapas
+Avenida Constitución, Colonia Zona Centro, Ciudad del Carmen, Campeche
+Calle Matamoros, Colonia Centro, Tehuacán, Puebla
+Avenida Carranza, Colonia Zona Centro, Campeche, Campeche
+Calle Guerrero, Colonia Centro, Playa del Carmen, Quintana Roo
+Avenida Ocampo, Colonia Zona Centro, Ciudad Guzmán, Jalisco
+Calle Allende, Colonia Centro, Tulancingo, Hidalgo
+Avenida Revolución, Colonia Zona Centro, Puerto Vallarta, Jalisco
+Calle Benito Juárez, Colonia Centro, Pachuca, Hidalgo
