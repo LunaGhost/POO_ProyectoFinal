@@ -24,8 +24,9 @@ import java.util.Random;
  */
 public class Alumno {
     private String nombreCompleto;
-    private int edad;
+    private final int edad;
     private int semestreEnCurso;
+    private String direccion;
 
     /**
      * Constructor de la clase Alumno.
@@ -76,6 +77,39 @@ public class Alumno {
         this.semestreEnCurso = calcularSemestre();
     }
 
+    public String getDireccion() {
+        return direccion;
+    }
+
+    public void setDireccion() {
+        this.direccion = generarDireccion();
+    }
+
+    private String generarDireccion() {
+        List<String> direcciones = leerArchivo("Direcciones.txt");
+
+        // Verificar si la lista de direcciones no está vacía
+        if (!direcciones.isEmpty()) {
+            return seleccionarDireccionAleatoria(direcciones);
+        } else {
+            System.out.println("Error: La lista de direcciones está vacía.");
+            return ""; // O devuelve otra cadena que indique un problema
+        }
+    }
+
+    private String seleccionarDireccionAleatoria(List<String> listaDirecciones) {
+        Random rand = new Random();
+        String direccionCompleta;
+
+        // Seleccionar aleatoriamente una dirección de la lista
+        String direccionElegida = listaDirecciones.get(rand.nextInt(listaDirecciones.size()));
+
+        // Combinar las partes para formar la dirección completa
+        direccionCompleta = direccionElegida.trim();
+
+        return direccionCompleta;
+    }
+
     /**
      * Genera un nombre completo aleatorio para el estudiante utilizando listas de nombres y apellidos.
      *
@@ -121,6 +155,7 @@ public class Alumno {
             lineas = Files.readAllLines(Paths.get(nombreArchivo));
         } catch (IOException e) {
             e.printStackTrace();
+            System.out.println("Error al leer el archivo: " + e.getMessage());
         }
         return lineas;
     }
@@ -149,6 +184,11 @@ public class Alumno {
      */
     @Override
     public String toString() {
-        return "Alumno{" + "nombreCompleto=" + nombreCompleto + ", edad=" + edad + ", semestreEnCurso=" + semestreEnCurso + '}';
+        return "Alumno{" +
+                "nombreCompleto='" + nombreCompleto + '\'' +
+                ", edad=" + edad +
+                ", semestreEnCurso=" + semestreEnCurso +
+                ", direccion='" + direccion + '\'' +
+                '}';
     }
 }

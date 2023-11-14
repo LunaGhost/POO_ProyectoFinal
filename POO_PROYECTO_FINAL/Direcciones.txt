@@ -1,4 +1,3 @@
-CALLE,COLONIA,CAPITAL,ESTADO
 Calle 1, Colonia Bella Vista, Ciudad de México
 Avenida Revolución, Colonia San Juan, Guadalajara, Jalisco
 Calle Reforma, Colonia Centro, Monterrey, Nuevo León

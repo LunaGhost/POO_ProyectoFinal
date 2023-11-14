@@ -14,10 +14,12 @@ public class POO_PROYECTO_FINAL {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Alumno alumno = new Alumno();
-        alumno.setNombreCompleto();
-        alumno.setSemestreEnCurso();
-        System.out.println(alumno);
+        for(int i=0; i<10;i++){
+            Alumno alumno = new Alumno();
+            alumno.setNombreCompleto();
+            alumno.setSemestreEnCurso();
+            alumno.setDireccion();
+            System.out.println(alumno);
+        }
     }
-    
 }
