@@ -27,6 +27,7 @@ public class Alumno {
     private final int edad;
     private int semestreEnCurso;
     private String direccion;
+    private TiraDeMaterias tira;
 
     /**
      * Constructor de la clase Alumno.
@@ -85,6 +86,14 @@ public class Alumno {
         this.direccion = generarDireccion();
     }
 
+    public TiraDeMaterias getTira() {
+        return tira;
+    }
+
+    public void setTira(TiraDeMaterias tira) {
+        this.tira = tira;
+    }
+    
     private String generarDireccion() {
         List<String> direcciones = leerArchivo("Direcciones.txt");
 
@@ -189,6 +198,6 @@ public class Alumno {
                 ", edad=" + edad +
                 ", semestreEnCurso=" + semestreEnCurso +
                 ", direccion='" + direccion + '\'' +
-                '}';
+                '}'+ tira.toString();
     }
 }
