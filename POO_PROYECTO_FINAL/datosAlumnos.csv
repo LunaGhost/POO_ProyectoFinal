@@ -1,0 +1,320 @@
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Alexis Jamie Aguilar Soto,21,5,"Avenida Madero, Colonia Lomas de San Francisco, Ciudad Obregón, Sonora",815701166
+Materia,Calificacion
+Algebra,10
+Calculo y Geometria Analitica,7
+Quimica,8
+Fundamentos de Fisica,6
+Fundamentos de Programacion,6
+Algebra Lineal,8
+Calculo Integral,9
+Mecanica,8
+Redaccion y Exposicion de Temas de Ingenieria,5
+Estructura de Datos y Algoritmos I,6
+Probabilidad,8
+Calculo Vectorial,6
+Ecuaciones Diferenciales,9
+Programacion Orientada a Objetos,7
+Estructuras de Datos y Algoritmos II,7
+Fundamentos de Estadistica,7
+Electricidad y Magnetismo,8
+Analisis Numerico,5
+Matematicas Avanzadas,6
+Estructuras Discretas,9
+Estructura y Programacion de Computadoras,8
+Dispositivos Electronicos,8
+Lenguajes Formales y Automatas,7
+Se�ales y Sistemas,7
+Ingenieria en Software,5
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Hayden Riley Morales Salazar,27,7,"Avenida Mariano Matamoros, Colonia Las Brisas, Toluca, Estado de México",737840927
+Materia,Calificacion
+Algebra,6
+Calculo y Geometria Analitica,7
+Quimica,9
+Fundamentos de Fisica,6
+Fundamentos de Programacion,6
+Algebra Lineal,9
+Calculo Integral,8
+Mecanica,9
+Redaccion y Exposicion de Temas de Ingenieria,9
+Estructura de Datos y Algoritmos I,7
+Probabilidad,5
+Calculo Vectorial,5
+Ecuaciones Diferenciales,9
+Programacion Orientada a Objetos,7
+Estructuras de Datos y Algoritmos II,9
+Fundamentos de Estadistica,10
+Electricidad y Magnetismo,5
+Analisis Numerico,5
+Matematicas Avanzadas,8
+Estructuras Discretas,7
+Estructura y Programacion de Computadoras,10
+Dispositivos Electronicos,9
+Lenguajes Formales y Automatas,8
+Se�ales y Sistemas,8
+Ingenieria en Software,7
+Sistemas Operativos,8
+Dise�o Digital Moderno,9
+Bases de Datos,8
+Circuitos Electricos,8
+Administracion de Proyectos de Software,9
+Finanzas en la Ingenieria en Computacion,9
+Dise�o Digital VLSI,9
+Inteligencia Artificial,8
+Compiladores,6
+Sistemas de Comunicaciones,5
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Quinn Taylor Rivas Navarro,18,3,"Calle 16 de Septiembre, Colonia La Aurora, Querétaro, Querétaro",780400276
+Materia,Calificacion
+Algebra,9
+Calculo y Geometria Analitica,9
+Quimica,8
+Fundamentos de Fisica,10
+Fundamentos de Programacion,5
+Algebra Lineal,9
+Calculo Integral,9
+Mecanica,6
+Redaccion y Exposicion de Temas de Ingenieria,7
+Estructura de Datos y Algoritmos I,9
+Probabilidad,8
+Calculo Vectorial,9
+Ecuaciones Diferenciales,6
+Programacion Orientada a Objetos,8
+Estructuras de Datos y Algoritmos II,7
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Skylar Espinosa Mendoza,24,9,"Calle Morelos, Colonia Los Alamos, Puebla, Puebla",551136204
+Materia,Calificacion
+Algebra,9
+Calculo y Geometria Analitica,8
+Quimica,8
+Fundamentos de Fisica,6
+Fundamentos de Programacion,5
+Algebra Lineal,8
+Calculo Integral,7
+Mecanica,8
+Redaccion y Exposicion de Temas de Ingenieria,10
+Estructura de Datos y Algoritmos I,9
+Probabilidad,5
+Calculo Vectorial,10
+Ecuaciones Diferenciales,6
+Programacion Orientada a Objetos,7
+Estructuras de Datos y Algoritmos II,10
+Fundamentos de Estadistica,7
+Electricidad y Magnetismo,10
+Analisis Numerico,9
+Matematicas Avanzadas,9
+Estructuras Discretas,8
+Estructura y Programacion de Computadoras,8
+Dispositivos Electronicos,8
+Lenguajes Formales y Automatas,6
+Se�ales y Sistemas,7
+Ingenieria en Software,6
+Sistemas Operativos,5
+Dise�o Digital Moderno,6
+Bases de Datos,6
+Circuitos Electricos,5
+Administracion de Proyectos de Software,6
+Finanzas en la Ingenieria en Computacion,7
+Dise�o Digital VLSI,10
+Inteligencia Artificial,8
+Compiladores,5
+Sistemas de Comunicaciones,8
+Optativa de Ciencias Sociales y Humanidades,5
+Microcomputadoras,8
+Computacion Grafica e Interaccion Humano-Computadora,6
+Etica Profesional,8
+Redes de Datos Seguras,9
+Organizacion y Arquitectura de Computadoras,5
+Fundamentos de Sistemas Embebidos,9
+Sistemas Distribuidos,7
+Optativa de Campo de Profundizacion I,7
+Recursos y Necesidades de Mexico,7
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Taylor Quinn Rodriguez Bravo,19,1,"Calle Matamoros, Colonia Mirasol, Mérida, Yucatán",326823279
+Materia,Calificacion
+Algebra,10
+Calculo y Geometria Analitica,7
+Quimica,7
+Fundamentos de Fisica,5
+Fundamentos de Programacion,10
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Jordan Logan Espinosa Ortiz,20,2,"Avenida Cuauhtémoc, Colonia Santa Rosa, Tijuana, Baja California",176291722
+Materia,Calificacion
+Algebra,6
+Calculo y Geometria Analitica,10
+Quimica,7
+Fundamentos de Fisica,10
+Fundamentos de Programacion,6
+Algebra Lineal,9
+Calculo Integral,8
+Mecanica,9
+Redaccion y Exposicion de Temas de Ingenieria,7
+Estructura de Datos y Algoritmos I,5
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Finley Silva Morales,24,7,"Calle Francisco Villa, Colonia Del Bosque, Ciudad del Carmen, Campeche",228827735
+Materia,Calificacion
+Algebra,8
+Calculo y Geometria Analitica,5
+Quimica,5
+Fundamentos de Fisica,6
+Fundamentos de Programacion,9
+Algebra Lineal,8
+Calculo Integral,9
+Mecanica,7
+Redaccion y Exposicion de Temas de Ingenieria,10
+Estructura de Datos y Algoritmos I,10
+Probabilidad,8
+Calculo Vectorial,5
+Ecuaciones Diferenciales,8
+Programacion Orientada a Objetos,5
+Estructuras de Datos y Algoritmos II,6
+Fundamentos de Estadistica,6
+Electricidad y Magnetismo,5
+Analisis Numerico,6
+Matematicas Avanzadas,10
+Estructuras Discretas,10
+Estructura y Programacion de Computadoras,7
+Dispositivos Electronicos,9
+Lenguajes Formales y Automatas,8
+Se�ales y Sistemas,5
+Ingenieria en Software,10
+Sistemas Operativos,10
+Dise�o Digital Moderno,10
+Bases de Datos,10
+Circuitos Electricos,9
+Administracion de Proyectos de Software,8
+Finanzas en la Ingenieria en Computacion,9
+Dise�o Digital VLSI,5
+Inteligencia Artificial,9
+Compiladores,6
+Sistemas de Comunicaciones,6
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Morgan Taylor Salazar Navarro,27,8,"Calle Zaragoza, Colonia Las Delicias, León, Guanajuato",227605289
+Materia,Calificacion
+Algebra,6
+Calculo y Geometria Analitica,8
+Quimica,9
+Fundamentos de Fisica,5
+Fundamentos de Programacion,8
+Algebra Lineal,7
+Calculo Integral,10
+Mecanica,7
+Redaccion y Exposicion de Temas de Ingenieria,9
+Estructura de Datos y Algoritmos I,5
+Probabilidad,5
+Calculo Vectorial,7
+Ecuaciones Diferenciales,7
+Programacion Orientada a Objetos,7
+Estructuras de Datos y Algoritmos II,9
+Fundamentos de Estadistica,10
+Electricidad y Magnetismo,8
+Analisis Numerico,8
+Matematicas Avanzadas,8
+Estructuras Discretas,6
+Estructura y Programacion de Computadoras,9
+Dispositivos Electronicos,10
+Lenguajes Formales y Automatas,6
+Se�ales y Sistemas,10
+Ingenieria en Software,9
+Sistemas Operativos,9
+Dise�o Digital Moderno,7
+Bases de Datos,6
+Circuitos Electricos,5
+Administracion de Proyectos de Software,7
+Finanzas en la Ingenieria en Computacion,8
+Dise�o Digital VLSI,8
+Inteligencia Artificial,10
+Compiladores,9
+Sistemas de Comunicaciones,8
+Optativa de Ciencias Sociales y Humanidades,5
+Microcomputadoras,6
+Computacion Grafica e Interaccion Humano-Computadora,6
+Etica Profesional,9
+Redes de Datos Seguras,8
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Riley Jordan Silva Flores,25,7,"Avenida Juárez, Colonia Lomas de Angelópolis, Puebla, Puebla",104561193
+Materia,Calificacion
+Algebra,9
+Calculo y Geometria Analitica,6
+Quimica,6
+Fundamentos de Fisica,10
+Fundamentos de Programacion,7
+Algebra Lineal,5
+Calculo Integral,5
+Mecanica,9
+Redaccion y Exposicion de Temas de Ingenieria,5
+Estructura de Datos y Algoritmos I,10
+Probabilidad,10
+Calculo Vectorial,8
+Ecuaciones Diferenciales,5
+Programacion Orientada a Objetos,5
+Estructuras de Datos y Algoritmos II,7
+Fundamentos de Estadistica,8
+Electricidad y Magnetismo,5
+Analisis Numerico,9
+Matematicas Avanzadas,8
+Estructuras Discretas,6
+Estructura y Programacion de Computadoras,5
+Dispositivos Electronicos,9
+Lenguajes Formales y Automatas,10
+Se�ales y Sistemas,7
+Ingenieria en Software,6
+Sistemas Operativos,10
+Dise�o Digital Moderno,8
+Bases de Datos,6
+Circuitos Electricos,8
+Administracion de Proyectos de Software,6
+Finanzas en la Ingenieria en Computacion,9
+Dise�o Digital VLSI,8
+Inteligencia Artificial,8
+Compiladores,7
+Sistemas de Comunicaciones,7
+
+NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
+Morgan Vega Navarro,24,7,"Avenida Hidalgo, Colonia Del Bosque, Campeche, Campeche",319642911
+Materia,Calificacion
+Algebra,9
+Calculo y Geometria Analitica,10
+Quimica,6
+Fundamentos de Fisica,8
+Fundamentos de Programacion,7
+Algebra Lineal,10
+Calculo Integral,8
+Mecanica,8
+Redaccion y Exposicion de Temas de Ingenieria,7
+Estructura de Datos y Algoritmos I,7
+Probabilidad,10
+Calculo Vectorial,10
+Ecuaciones Diferenciales,6
+Programacion Orientada a Objetos,5
+Estructuras de Datos y Algoritmos II,9
+Fundamentos de Estadistica,7
+Electricidad y Magnetismo,5
+Analisis Numerico,10
+Matematicas Avanzadas,10
+Estructuras Discretas,10
+Estructura y Programacion de Computadoras,5
+Dispositivos Electronicos,6
+Lenguajes Formales y Automatas,5
+Se�ales y Sistemas,9
+Ingenieria en Software,5
+Sistemas Operativos,10
+Dise�o Digital Moderno,5
+Bases de Datos,6
+Circuitos Electricos,7
+Administracion de Proyectos de Software,8
+Finanzas en la Ingenieria en Computacion,10
+Dise�o Digital VLSI,5
+Inteligencia Artificial,7
+Compiladores,5
+Sistemas de Comunicaciones,10

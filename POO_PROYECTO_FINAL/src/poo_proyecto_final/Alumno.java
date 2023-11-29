@@ -27,7 +27,7 @@ public class Alumno {
     private final int edad;
     private int semestreEnCurso;
     private String direccion;
-    private TiraDeMaterias tira;
+    private String numCuenta;
 
     /**
      * Constructor de la clase Alumno.
@@ -35,6 +35,7 @@ public class Alumno {
      */
     public Alumno() {
         this.edad = new Random().nextInt(10) + 18;
+        //this.numCuenta = null;
     }
 
     /**
@@ -86,13 +87,14 @@ public class Alumno {
         this.direccion = generarDireccion();
     }
 
-    public TiraDeMaterias getTira() {
-        return tira;
+    public String getNumCuenta() {
+        return numCuenta;
     }
 
-    public void setTira(TiraDeMaterias tira) {
-        this.tira = tira;
+    public void setNumCuenta(String numCuenta) {
+        this.numCuenta = numCuenta;
     }
+    
     
     private String generarDireccion() {
         List<String> direcciones = leerArchivo("Direcciones.txt");
@@ -185,7 +187,21 @@ public class Alumno {
         };
         return semestre;
     }
+    
+    public String generaNumCuenta (){
+        Random random = new Random();
+        StringBuilder sb = new StringBuilder();
 
+        for (int i = 0; i < 9; i++) {
+            int digito = random.nextInt(10);
+            sb.append(digito);
+        }
+
+        this.numCuenta = sb.toString();
+        return numCuenta;    
+    }
+
+    
     /**
      * Override del método toString para proporcionar una representación de cadena de la instancia de Alumno.
      *
@@ -193,11 +209,20 @@ public class Alumno {
      */
     @Override
     public String toString() {
+        return "Alumno{" + "nombreCompleto=" + nombreCompleto + ", edad=" + edad + ", semestreEnCurso=" + semestreEnCurso + ", direccion=" + direccion + ", numCuenta=" + numCuenta + '}';
+    }
+
+    
+    
+    
+    
+    /*@Override
+    public String toString() {
         return "Alumno{" +
                 "nombreCompleto='" + nombreCompleto + '\'' +
                 ", edad=" + edad +
                 ", semestreEnCurso=" + semestreEnCurso +
                 ", direccion='" + direccion + '\'' +
-                '}'+ tira.toString();
-    }
+                '}';
+    }*/
 }
