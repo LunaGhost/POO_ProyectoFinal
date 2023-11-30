@@ -61,7 +61,7 @@ public class DatosEnArchivo {
                     archivo.write("Materia,Calificacion\n");
                     // Iterar sobre las materias y calificaciones y escribir en el archivo
                     for (int i = 0; i < materiasCursadas.size(); i++) {
-                        String datosMateria = materiasCursadas.get(i) + "," + calificaciones.get(i) + "\n";
+                        String datosMateria = materiasCursadas.get(i) + "," + calificaciones.get(i) + " Indicador ecolar: "+tira.indicadorEscolar + "\n";
                         archivo.write(datosMateria);
                     }
                 }

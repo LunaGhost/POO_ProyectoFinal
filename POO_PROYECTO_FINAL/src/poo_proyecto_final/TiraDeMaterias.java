@@ -28,6 +28,7 @@ public class TiraDeMaterias extends Alumno {
     private List<String> materiasCursadas;
     private List<Integer> calificaciones;
     private float promedio;
+    float indicadorEscolar, escolaridad, velocidad;
 
     /**
      * Constructor predeterminado que inicializa las listas materiasCursadas y calificaciones.
@@ -192,7 +193,6 @@ public class TiraDeMaterias extends Alumno {
      * @param semestreEnCurso Semestre que cursa el alumno.
      */
     public void calculoNumInscripción(int semestreEnCurso) {
-        float indicadorEscolar, escolaridad, velocidad;
         escolaridad = ((float) aprobadas / (float) (semestreEnCurso * 5));
         velocidad = ((float) creditosAlumno / (float) creditosTotales);
         indicadorEscolar = promedio * escolaridad * velocidad;

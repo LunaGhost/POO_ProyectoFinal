@@ -6,10 +6,10 @@ package poo_proyecto_final;
 
 /**
  *
- * @author valer
+ * @author Equipo C
  */
 public class NumeroDeInscripcion extends TiraDeMaterias {
-   // private float indicadorEscolar, promedio, escolaridad, velocidad;
-    //private int asignaturasAprovadas, asignaturasReprovadas, creditosActuales, creditosTotales;
+   //private float indicadorEscolar, promedio, escolaridad, velocidad;
+   //private int asignaturasAprovadas, asignaturasReprovadas, creditosActuales, creditosTotales;
     
 }

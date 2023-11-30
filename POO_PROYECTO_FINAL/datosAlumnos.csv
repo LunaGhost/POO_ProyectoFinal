@@ -1,310 +1,277 @@
 
 NombreCompleto,Edad,SemestreEnCurso,Direccion,NumCuenta
-Cameron Alex Rojas Castro,21,4,"Avenida Reforma, Colonia Del Valle, Guadalajara, Jalisco",523115728
+Quinn Morales Silva,24,7,"Calle Allende, Colonia Centro, Colima, Colima",292275068
 Materia,Calificacion
-Algebra,5
-Calculo y Geometria Analitica,7
-Quimica,7
-Fundamentos de Fisica,9
-Fundamentos de Programacion,6
-Algebra Lineal,9
-Calculo Integral,5
-Mecanica,5
-Redaccion y Exposicion de Temas de Ingenieria,6
-Estructura de Datos y Algoritmos I,10
-Probabilidad,5
-Calculo Vectorial,10
-Ecuaciones Diferenciales,8
-Programacion Orientada a Objetos,6
-Estructuras de Datos y Algoritmos II,7
-Fundamentos de Estadistica,10
-Electricidad y Magnetismo,8
-Analisis Numerico,8
-Matematicas Avanzadas,10
-Estructuras Discretas,5
-Avery Navarro Soto,27,8,"Calle Reforma, Colonia Centro, Monterrey, Nuevo León",228694054
+Algebra,5 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,9 Indicador ecolar: 0.0
+Quimica,9 Indicador ecolar: 0.0
+Fundamentos de Fisica,8 Indicador ecolar: 0.0
+Fundamentos de Programacion,8 Indicador ecolar: 0.0
+Algebra Lineal,6 Indicador ecolar: 0.0
+Calculo Integral,10 Indicador ecolar: 0.0
+Mecanica,7 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,8 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,7 Indicador ecolar: 0.0
+Probabilidad,10 Indicador ecolar: 0.0
+Calculo Vectorial,10 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,9 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,6 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,9 Indicador ecolar: 0.0
+Fundamentos de Estadistica,7 Indicador ecolar: 0.0
+Electricidad y Magnetismo,7 Indicador ecolar: 0.0
+Analisis Numerico,5 Indicador ecolar: 0.0
+Matematicas Avanzadas,9 Indicador ecolar: 0.0
+Estructuras Discretas,7 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,9 Indicador ecolar: 0.0
+Dispositivos Electronicos,10 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,7 Indicador ecolar: 0.0
+Se�ales y Sistemas,8 Indicador ecolar: 0.0
+Ingenieria en Software,10 Indicador ecolar: 0.0
+Sistemas Operativos,6 Indicador ecolar: 0.0
+Dise�o Digital Moderno,9 Indicador ecolar: 0.0
+Bases de Datos,5 Indicador ecolar: 0.0
+Circuitos Electricos,6 Indicador ecolar: 0.0
+Administracion de Proyectos de Software,10 Indicador ecolar: 0.0
+Finanzas en la Ingenieria en Computacion,6 Indicador ecolar: 0.0
+Dise�o Digital VLSI,6 Indicador ecolar: 0.0
+Inteligencia Artificial,6 Indicador ecolar: 0.0
+Compiladores,7 Indicador ecolar: 0.0
+Sistemas de Comunicaciones,7 Indicador ecolar: 0.0
+Avery Avery Munoz Peralta,20,3,"Avenida Insurgentes, Colonia Lomas de Angelópolis, Puebla, Puebla",975775497
 Materia,Calificacion
-Algebra,7
-Calculo y Geometria Analitica,9
-Quimica,6
-Fundamentos de Fisica,6
-Fundamentos de Programacion,8
-Algebra Lineal,5
-Calculo Integral,7
-Mecanica,10
-Redaccion y Exposicion de Temas de Ingenieria,6
-Estructura de Datos y Algoritmos I,10
-Probabilidad,7
-Calculo Vectorial,5
-Ecuaciones Diferenciales,8
-Programacion Orientada a Objetos,10
-Estructuras de Datos y Algoritmos II,9
-Fundamentos de Estadistica,6
-Electricidad y Magnetismo,5
-Analisis Numerico,8
-Matematicas Avanzadas,10
-Estructuras Discretas,6
-Estructura y Programacion de Computadoras,8
-Dispositivos Electronicos,6
-Lenguajes Formales y Automatas,5
-Se�ales y Sistemas,9
-Ingenieria en Software,10
-Sistemas Operativos,10
-Dise�o Digital Moderno,7
-Bases de Datos,10
-Circuitos Electricos,10
-Administracion de Proyectos de Software,10
-Finanzas en la Ingenieria en Computacion,9
-Dise�o Digital VLSI,7
-Inteligencia Artificial,9
-Compiladores,9
-Sistemas de Comunicaciones,7
-Optativa de Ciencias Sociales y Humanidades,6
-Microcomputadoras,10
-Computacion Grafica e Interaccion Humano-Computadora,5
-Etica Profesional,7
-Redes de Datos Seguras,10
-Riley Montoya Herrera,20,5,"Avenida Insurgentes, Colonia Lomas de Angelópolis, Puebla, Puebla",837151009
+Algebra,10 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,10 Indicador ecolar: 0.0
+Quimica,6 Indicador ecolar: 0.0
+Fundamentos de Fisica,8 Indicador ecolar: 0.0
+Fundamentos de Programacion,7 Indicador ecolar: 0.0
+Algebra Lineal,7 Indicador ecolar: 0.0
+Calculo Integral,9 Indicador ecolar: 0.0
+Mecanica,8 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,10 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,8 Indicador ecolar: 0.0
+Probabilidad,9 Indicador ecolar: 0.0
+Calculo Vectorial,8 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,7 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,7 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,10 Indicador ecolar: 0.0
+Avery Diaz Valenzuela,22,5,"Calle Cuauhtémoc, Colonia Los Pinos, Ciudad de México",739460646
 Materia,Calificacion
-Algebra,6
-Calculo y Geometria Analitica,8
-Quimica,7
-Fundamentos de Fisica,7
-Fundamentos de Programacion,10
-Algebra Lineal,5
-Calculo Integral,8
-Mecanica,9
-Redaccion y Exposicion de Temas de Ingenieria,8
-Estructura de Datos y Algoritmos I,7
-Probabilidad,7
-Calculo Vectorial,7
-Ecuaciones Diferenciales,9
-Programacion Orientada a Objetos,9
-Estructuras de Datos y Algoritmos II,8
-Fundamentos de Estadistica,5
-Electricidad y Magnetismo,5
-Analisis Numerico,8
-Matematicas Avanzadas,10
-Estructuras Discretas,10
-Estructura y Programacion de Computadoras,5
-Dispositivos Electronicos,5
-Lenguajes Formales y Automatas,5
-Se�ales y Sistemas,5
-Ingenieria en Software,7
-Alex Riley Medina Rojas,24,8,"Calle Miguel Hidalgo, Colonia Las Brisas, Ciudad del Carmen, Campeche",248977456
+Algebra,7 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,5 Indicador ecolar: 0.0
+Quimica,5 Indicador ecolar: 0.0
+Fundamentos de Fisica,10 Indicador ecolar: 0.0
+Fundamentos de Programacion,10 Indicador ecolar: 0.0
+Algebra Lineal,8 Indicador ecolar: 0.0
+Calculo Integral,7 Indicador ecolar: 0.0
+Mecanica,7 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,7 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,6 Indicador ecolar: 0.0
+Probabilidad,10 Indicador ecolar: 0.0
+Calculo Vectorial,6 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,6 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,9 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,8 Indicador ecolar: 0.0
+Fundamentos de Estadistica,10 Indicador ecolar: 0.0
+Electricidad y Magnetismo,5 Indicador ecolar: 0.0
+Analisis Numerico,8 Indicador ecolar: 0.0
+Matematicas Avanzadas,5 Indicador ecolar: 0.0
+Estructuras Discretas,8 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,8 Indicador ecolar: 0.0
+Dispositivos Electronicos,10 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,10 Indicador ecolar: 0.0
+Se�ales y Sistemas,7 Indicador ecolar: 0.0
+Ingenieria en Software,10 Indicador ecolar: 0.0
+Cameron Casey Jimenez Perez,21,2,"Avenida Benito Juárez, Colonia Las Haciendas, Tijuana, Baja California",055702479
 Materia,Calificacion
-Algebra,7
-Calculo y Geometria Analitica,10
-Quimica,7
-Fundamentos de Fisica,7
-Fundamentos de Programacion,5
-Algebra Lineal,5
-Calculo Integral,5
-Mecanica,8
-Redaccion y Exposicion de Temas de Ingenieria,8
-Estructura de Datos y Algoritmos I,6
-Probabilidad,9
-Calculo Vectorial,5
-Ecuaciones Diferenciales,5
-Programacion Orientada a Objetos,9
-Estructuras de Datos y Algoritmos II,8
-Fundamentos de Estadistica,7
-Electricidad y Magnetismo,7
-Analisis Numerico,8
-Matematicas Avanzadas,5
-Estructuras Discretas,6
-Estructura y Programacion de Computadoras,8
-Dispositivos Electronicos,9
-Lenguajes Formales y Automatas,6
-Se�ales y Sistemas,8
-Ingenieria en Software,9
-Sistemas Operativos,6
-Dise�o Digital Moderno,10
-Bases de Datos,5
-Circuitos Electricos,10
-Administracion de Proyectos de Software,7
-Finanzas en la Ingenieria en Computacion,8
-Dise�o Digital VLSI,7
-Inteligencia Artificial,8
-Compiladores,8
-Sistemas de Comunicaciones,7
-Optativa de Ciencias Sociales y Humanidades,9
-Microcomputadoras,9
-Computacion Grafica e Interaccion Humano-Computadora,9
-Etica Profesional,10
-Redes de Datos Seguras,6
-Juana Lopez Ramos,20,5,"Calle 16 de Septiembre, Colonia Santa Rosa, Hermosillo, Sonora",643082821
+Algebra,8 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,10 Indicador ecolar: 0.0
+Quimica,7 Indicador ecolar: 0.0
+Fundamentos de Fisica,8 Indicador ecolar: 0.0
+Fundamentos de Programacion,10 Indicador ecolar: 0.0
+Algebra Lineal,5 Indicador ecolar: 0.0
+Calculo Integral,8 Indicador ecolar: 0.0
+Mecanica,6 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,8 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,10 Indicador ecolar: 0.0
+Skylar Soto Perez,19,3,"Avenida Hidalgo, Colonia Del Valle, Tijuana, Baja California",807215649
 Materia,Calificacion
-Algebra,10
-Calculo y Geometria Analitica,5
-Quimica,8
-Fundamentos de Fisica,10
-Fundamentos de Programacion,7
-Algebra Lineal,5
-Calculo Integral,5
-Mecanica,10
-Redaccion y Exposicion de Temas de Ingenieria,7
-Estructura de Datos y Algoritmos I,7
-Probabilidad,9
-Calculo Vectorial,10
-Ecuaciones Diferenciales,9
-Programacion Orientada a Objetos,6
-Estructuras de Datos y Algoritmos II,9
-Fundamentos de Estadistica,9
-Electricidad y Magnetismo,9
-Analisis Numerico,8
-Matematicas Avanzadas,5
-Estructuras Discretas,8
-Estructura y Programacion de Computadoras,7
-Dispositivos Electronicos,10
-Lenguajes Formales y Automatas,5
-Se�ales y Sistemas,6
-Ingenieria en Software,8
-Alexis Diaz Espinosa,25,8,"Avenida Juárez, Colonia Zona Industrial, Puebla, Puebla",643180785
+Algebra,9 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,8 Indicador ecolar: 0.0
+Quimica,5 Indicador ecolar: 0.0
+Fundamentos de Fisica,8 Indicador ecolar: 0.0
+Fundamentos de Programacion,8 Indicador ecolar: 0.0
+Algebra Lineal,5 Indicador ecolar: 0.0
+Calculo Integral,10 Indicador ecolar: 0.0
+Mecanica,7 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,5 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,9 Indicador ecolar: 0.0
+Probabilidad,7 Indicador ecolar: 0.0
+Calculo Vectorial,8 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,5 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,10 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,6 Indicador ecolar: 0.0
+Casey Castro Gonzalez,23,6,"Avenida Ocampo, Colonia El Pueblito, Querétaro, Querétaro",824288518
 Materia,Calificacion
-Algebra,10
-Calculo y Geometria Analitica,10
-Quimica,7
-Fundamentos de Fisica,9
-Fundamentos de Programacion,6
-Algebra Lineal,9
-Calculo Integral,10
-Mecanica,9
-Redaccion y Exposicion de Temas de Ingenieria,7
-Estructura de Datos y Algoritmos I,10
-Probabilidad,9
-Calculo Vectorial,9
-Ecuaciones Diferenciales,9
-Programacion Orientada a Objetos,10
-Estructuras de Datos y Algoritmos II,9
-Fundamentos de Estadistica,5
-Electricidad y Magnetismo,6
-Analisis Numerico,6
-Matematicas Avanzadas,5
-Estructuras Discretas,5
-Estructura y Programacion de Computadoras,10
-Dispositivos Electronicos,8
-Lenguajes Formales y Automatas,7
-Se�ales y Sistemas,10
-Ingenieria en Software,6
-Sistemas Operativos,8
-Dise�o Digital Moderno,6
-Bases de Datos,5
-Circuitos Electricos,6
-Administracion de Proyectos de Software,6
-Finanzas en la Ingenieria en Computacion,7
-Dise�o Digital VLSI,6
-Inteligencia Artificial,7
-Compiladores,10
-Sistemas de Comunicaciones,8
-Optativa de Ciencias Sociales y Humanidades,10
-Microcomputadoras,9
-Computacion Grafica e Interaccion Humano-Computadora,10
-Etica Profesional,8
-Redes de Datos Seguras,8
-Quinn Dakota Flores Munoz,19,2,"Calle Emiliano Zapata, Colonia Las Palmas, Ciudad del Carmen, Campeche",926143684
+Algebra,8 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,5 Indicador ecolar: 0.0
+Quimica,10 Indicador ecolar: 0.0
+Fundamentos de Fisica,9 Indicador ecolar: 0.0
+Fundamentos de Programacion,7 Indicador ecolar: 0.0
+Algebra Lineal,7 Indicador ecolar: 0.0
+Calculo Integral,6 Indicador ecolar: 0.0
+Mecanica,5 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,10 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,6 Indicador ecolar: 0.0
+Probabilidad,10 Indicador ecolar: 0.0
+Calculo Vectorial,8 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,6 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,5 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,6 Indicador ecolar: 0.0
+Fundamentos de Estadistica,6 Indicador ecolar: 0.0
+Electricidad y Magnetismo,7 Indicador ecolar: 0.0
+Analisis Numerico,5 Indicador ecolar: 0.0
+Matematicas Avanzadas,5 Indicador ecolar: 0.0
+Estructuras Discretas,7 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,8 Indicador ecolar: 0.0
+Dispositivos Electronicos,7 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,10 Indicador ecolar: 0.0
+Se�ales y Sistemas,7 Indicador ecolar: 0.0
+Ingenieria en Software,6 Indicador ecolar: 0.0
+Sistemas Operativos,8 Indicador ecolar: 0.0
+Dise�o Digital Moderno,5 Indicador ecolar: 0.0
+Bases de Datos,8 Indicador ecolar: 0.0
+Circuitos Electricos,5 Indicador ecolar: 0.0
+Administracion de Proyectos de Software,10 Indicador ecolar: 0.0
+Jamie Valenzuela Herrera,21,3,"Calle Francisco I. Madero, Colonia El Refugio, Monterrey, Nuevo León",901089827
 Materia,Calificacion
-Algebra,7
-Calculo y Geometria Analitica,10
-Quimica,6
-Fundamentos de Fisica,9
-Fundamentos de Programacion,10
-Algebra Lineal,10
-Calculo Integral,7
-Mecanica,10
-Redaccion y Exposicion de Temas de Ingenieria,5
-Estructura de Datos y Algoritmos I,10
-Alex Alex Morales Perez,26,9,"Calle Cuauhtémoc, Colonia Los Laureles, Toluca, Estado de México",983047833
+Algebra,5 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,6 Indicador ecolar: 0.0
+Quimica,5 Indicador ecolar: 0.0
+Fundamentos de Fisica,8 Indicador ecolar: 0.0
+Fundamentos de Programacion,9 Indicador ecolar: 0.0
+Algebra Lineal,5 Indicador ecolar: 0.0
+Calculo Integral,6 Indicador ecolar: 0.0
+Mecanica,6 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,9 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,10 Indicador ecolar: 0.0
+Probabilidad,7 Indicador ecolar: 0.0
+Calculo Vectorial,6 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,9 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,6 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,10 Indicador ecolar: 0.0
+Taylor Araya Romero,22,7,"Avenida Constitución, Colonia Zona Centro, San Cristóbal de las Casas, Chiapas",921833998
 Materia,Calificacion
-Algebra,5
-Calculo y Geometria Analitica,8
-Quimica,7
-Fundamentos de Fisica,10
-Fundamentos de Programacion,6
-Algebra Lineal,9
-Calculo Integral,6
-Mecanica,5
-Redaccion y Exposicion de Temas de Ingenieria,8
-Estructura de Datos y Algoritmos I,10
-Probabilidad,10
-Calculo Vectorial,10
-Ecuaciones Diferenciales,9
-Programacion Orientada a Objetos,5
-Estructuras de Datos y Algoritmos II,7
-Fundamentos de Estadistica,10
-Electricidad y Magnetismo,7
-Analisis Numerico,8
-Matematicas Avanzadas,5
-Estructuras Discretas,8
-Estructura y Programacion de Computadoras,5
-Dispositivos Electronicos,9
-Lenguajes Formales y Automatas,7
-Se�ales y Sistemas,9
-Ingenieria en Software,5
-Sistemas Operativos,7
-Dise�o Digital Moderno,6
-Bases de Datos,6
-Circuitos Electricos,7
-Administracion de Proyectos de Software,8
-Finanzas en la Ingenieria en Computacion,10
-Dise�o Digital VLSI,5
-Inteligencia Artificial,6
-Compiladores,6
-Sistemas de Comunicaciones,7
-Optativa de Ciencias Sociales y Humanidades,8
-Microcomputadoras,10
-Computacion Grafica e Interaccion Humano-Computadora,6
-Etica Profesional,6
-Redes de Datos Seguras,5
-Organizacion y Arquitectura de Computadoras,7
-Fundamentos de Sistemas Embebidos,9
-Sistemas Distribuidos,8
-Optativa de Campo de Profundizacion I,9
-Recursos y Necesidades de Mexico,8
-Avery Sanchez Vargas,25,9,"Avenida Reforma, Colonia Las Haciendas, Tijuana, Baja California",464386159
+Algebra,6 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,6 Indicador ecolar: 0.0
+Quimica,7 Indicador ecolar: 0.0
+Fundamentos de Fisica,10 Indicador ecolar: 0.0
+Fundamentos de Programacion,9 Indicador ecolar: 0.0
+Algebra Lineal,6 Indicador ecolar: 0.0
+Calculo Integral,9 Indicador ecolar: 0.0
+Mecanica,9 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,5 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,6 Indicador ecolar: 0.0
+Probabilidad,5 Indicador ecolar: 0.0
+Calculo Vectorial,5 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,8 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,8 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,8 Indicador ecolar: 0.0
+Fundamentos de Estadistica,7 Indicador ecolar: 0.0
+Electricidad y Magnetismo,10 Indicador ecolar: 0.0
+Analisis Numerico,8 Indicador ecolar: 0.0
+Matematicas Avanzadas,8 Indicador ecolar: 0.0
+Estructuras Discretas,6 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,9 Indicador ecolar: 0.0
+Dispositivos Electronicos,9 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,10 Indicador ecolar: 0.0
+Se�ales y Sistemas,6 Indicador ecolar: 0.0
+Ingenieria en Software,5 Indicador ecolar: 0.0
+Sistemas Operativos,5 Indicador ecolar: 0.0
+Dise�o Digital Moderno,8 Indicador ecolar: 0.0
+Bases de Datos,10 Indicador ecolar: 0.0
+Circuitos Electricos,6 Indicador ecolar: 0.0
+Administracion de Proyectos de Software,6 Indicador ecolar: 0.0
+Finanzas en la Ingenieria en Computacion,6 Indicador ecolar: 0.0
+Dise�o Digital VLSI,6 Indicador ecolar: 0.0
+Inteligencia Artificial,9 Indicador ecolar: 0.0
+Compiladores,5 Indicador ecolar: 0.0
+Sistemas de Comunicaciones,10 Indicador ecolar: 0.0
+Morgan Mendoza Lopez,22,5,"Calle Guerrero, Colonia El Pueblito, Zapopan, Jalisco",173372261
 Materia,Calificacion
-Algebra,5
-Calculo y Geometria Analitica,6
-Quimica,9
-Fundamentos de Fisica,7
-Fundamentos de Programacion,5
-Algebra Lineal,8
-Calculo Integral,10
-Mecanica,6
-Redaccion y Exposicion de Temas de Ingenieria,10
-Estructura de Datos y Algoritmos I,10
-Probabilidad,6
-Calculo Vectorial,6
-Ecuaciones Diferenciales,9
-Programacion Orientada a Objetos,10
-Estructuras de Datos y Algoritmos II,8
-Fundamentos de Estadistica,9
-Electricidad y Magnetismo,9
-Analisis Numerico,9
-Matematicas Avanzadas,5
-Estructuras Discretas,8
-Estructura y Programacion de Computadoras,5
-Dispositivos Electronicos,9
-Lenguajes Formales y Automatas,10
-Se�ales y Sistemas,9
-Ingenieria en Software,5
-Sistemas Operativos,10
-Dise�o Digital Moderno,8
-Bases de Datos,6
-Circuitos Electricos,6
-Administracion de Proyectos de Software,8
-Finanzas en la Ingenieria en Computacion,6
-Dise�o Digital VLSI,9
-Inteligencia Artificial,9
-Compiladores,8
-Sistemas de Comunicaciones,8
-Optativa de Ciencias Sociales y Humanidades,7
-Microcomputadoras,10
-Computacion Grafica e Interaccion Humano-Computadora,7
-Etica Profesional,6
-Redes de Datos Seguras,6
-Organizacion y Arquitectura de Computadoras,10
-Fundamentos de Sistemas Embebidos,7
-Sistemas Distribuidos,6
-Optativa de Campo de Profundizacion I,10
-Recursos y Necesidades de Mexico,5
+Algebra,6 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,7 Indicador ecolar: 0.0
+Quimica,5 Indicador ecolar: 0.0
+Fundamentos de Fisica,5 Indicador ecolar: 0.0
+Fundamentos de Programacion,8 Indicador ecolar: 0.0
+Algebra Lineal,6 Indicador ecolar: 0.0
+Calculo Integral,8 Indicador ecolar: 0.0
+Mecanica,6 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,8 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,7 Indicador ecolar: 0.0
+Probabilidad,5 Indicador ecolar: 0.0
+Calculo Vectorial,9 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,7 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,8 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,5 Indicador ecolar: 0.0
+Fundamentos de Estadistica,7 Indicador ecolar: 0.0
+Electricidad y Magnetismo,5 Indicador ecolar: 0.0
+Analisis Numerico,10 Indicador ecolar: 0.0
+Matematicas Avanzadas,6 Indicador ecolar: 0.0
+Estructuras Discretas,9 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,9 Indicador ecolar: 0.0
+Dispositivos Electronicos,5 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,10 Indicador ecolar: 0.0
+Se�ales y Sistemas,10 Indicador ecolar: 0.0
+Ingenieria en Software,5 Indicador ecolar: 0.0
+Taylor Avery Fernandez Herrera,24,10,"Avenida Juárez, Colonia Las Rosas, Monterrey, Nuevo León",068279621
+Materia,Calificacion
+Algebra,10 Indicador ecolar: 0.0
+Calculo y Geometria Analitica,9 Indicador ecolar: 0.0
+Quimica,9 Indicador ecolar: 0.0
+Fundamentos de Fisica,9 Indicador ecolar: 0.0
+Fundamentos de Programacion,7 Indicador ecolar: 0.0
+Algebra Lineal,7 Indicador ecolar: 0.0
+Calculo Integral,8 Indicador ecolar: 0.0
+Mecanica,7 Indicador ecolar: 0.0
+Redaccion y Exposicion de Temas de Ingenieria,5 Indicador ecolar: 0.0
+Estructura de Datos y Algoritmos I,7 Indicador ecolar: 0.0
+Probabilidad,8 Indicador ecolar: 0.0
+Calculo Vectorial,8 Indicador ecolar: 0.0
+Ecuaciones Diferenciales,9 Indicador ecolar: 0.0
+Programacion Orientada a Objetos,5 Indicador ecolar: 0.0
+Estructuras de Datos y Algoritmos II,9 Indicador ecolar: 0.0
+Fundamentos de Estadistica,8 Indicador ecolar: 0.0
+Electricidad y Magnetismo,5 Indicador ecolar: 0.0
+Analisis Numerico,8 Indicador ecolar: 0.0
+Matematicas Avanzadas,10 Indicador ecolar: 0.0
+Estructuras Discretas,10 Indicador ecolar: 0.0
+Estructura y Programacion de Computadoras,10 Indicador ecolar: 0.0
+Dispositivos Electronicos,10 Indicador ecolar: 0.0
+Lenguajes Formales y Automatas,6 Indicador ecolar: 0.0
+Se�ales y Sistemas,9 Indicador ecolar: 0.0
+Ingenieria en Software,10 Indicador ecolar: 0.0
+Sistemas Operativos,8 Indicador ecolar: 0.0
+Dise�o Digital Moderno,7 Indicador ecolar: 0.0
+Bases de Datos,5 Indicador ecolar: 0.0
+Circuitos Electricos,10 Indicador ecolar: 0.0
+Administracion de Proyectos de Software,9 Indicador ecolar: 0.0
+Finanzas en la Ingenieria en Computacion,7 Indicador ecolar: 0.0
+Dise�o Digital VLSI,7 Indicador ecolar: 0.0
+Inteligencia Artificial,10 Indicador ecolar: 0.0
+Compiladores,10 Indicador ecolar: 0.0
+Sistemas de Comunicaciones,5 Indicador ecolar: 0.0
+Optativa de Ciencias Sociales y Humanidades,8 Indicador ecolar: 0.0
+Microcomputadoras,7 Indicador ecolar: 0.0
+Computacion Grafica e Interaccion Humano-Computadora,9 Indicador ecolar: 0.0
+Etica Profesional,10 Indicador ecolar: 0.0
+Redes de Datos Seguras,9 Indicador ecolar: 0.0
+Organizacion y Arquitectura de Computadoras,7 Indicador ecolar: 0.0
+Fundamentos de Sistemas Embebidos,9 Indicador ecolar: 0.0
+Sistemas Distribuidos,10 Indicador ecolar: 0.0
+Optativa de Campo de Profundizacion I,8 Indicador ecolar: 0.0
+Recursos y Necesidades de Mexico,6 Indicador ecolar: 0.0
+Cultura y Comunicacion,6 Indicador ecolar: 0.0
+Introduccion a la Economia,10 Indicador ecolar: 0.0
+Optativa de Campo de Profundizacion II,6 Indicador ecolar: 0.0
+Optativa de Campo de Profundizacion III,7 Indicador ecolar: 0.0
+Optativa de Campo de Profundizacion IV,5 Indicador ecolar: 0.0
