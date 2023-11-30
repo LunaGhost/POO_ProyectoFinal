@@ -3,12 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/*
- * Este código representa la definición de la clase Alumno en el proyecto final de POO.
- * La clase Alumno se encarga de representar a un estudiante con atributos como nombre completo, edad y semestre en curso.
- * Además, proporciona métodos para obtener y establecer estos atributos, así como para generar un nombre completo aleatorio
- * y calcular el semestre en curso del estudiante.
- */
 package poo_proyecto_final;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -20,6 +14,13 @@ import java.util.Random;
 /**
  *
  * @author EquipoC
+ * Este código representa la definición de la clase Alumno en el proyecto final de POO.
+ * La clase Alumno se encarga de representar a un estudiante con atributos como nombre completo, edad y semestre en curso.
+ * Además, proporciona métodos para obtener y establecer estos atributos, así como para generar un nombre completo aleatorio
+ * y calcular el semestre en curso del estudiante.
+ */
+
+/**
  * La clase Alumno representa a un estudiante con atributos como nombre completo, edad y semestre en curso.
  */
 public class Alumno {
@@ -35,7 +36,6 @@ public class Alumno {
      */
     public Alumno() {
         this.edad = new Random().nextInt(10) + 18;
-        //this.numCuenta = null;
     }
 
     /**
@@ -79,23 +79,45 @@ public class Alumno {
         this.semestreEnCurso = calcularSemestre();
     }
 
+    /**
+     * Obtiene la dirección del estudiante.
+     *
+     * @return La dirección del estudiante.
+     */
     public String getDireccion() {
         return direccion;
     }
 
+    /**
+     * Establece la dirección del estudiante generando una aleatoria.
+     */
     public void setDireccion() {
         this.direccion = generarDireccion();
     }
 
+    /**
+     * Obtiene el número de cuenta del estudiante.
+     *
+     * @return El número de cuenta del estudiante.
+     */
     public String getNumCuenta() {
         return numCuenta;
     }
 
+    /**
+     * Establece el número de cuenta del estudiante.
+     *
+     * @param numCuenta El número de cuenta a establecer.
+     */
     public void setNumCuenta(String numCuenta) {
         this.numCuenta = numCuenta;
     }
-    
-    
+
+    /**
+     * Genera una dirección aleatoria para el estudiante utilizando un archivo de direcciones.
+     *
+     * @return La dirección generada.
+     */
     private String generarDireccion() {
         List<String> direcciones = leerArchivo("Direcciones.txt");
 
@@ -108,6 +130,12 @@ public class Alumno {
         }
     }
 
+    /**
+     * Selecciona aleatoriamente una dirección de la lista de direcciones proporcionada.
+     *
+     * @param listaDirecciones Lista de direcciones desde la cual seleccionar.
+     * @return La dirección seleccionada aleatoriamente.
+     */
     private String seleccionarDireccionAleatoria(List<String> listaDirecciones) {
         Random rand = new Random();
         String direccionCompleta;
@@ -143,7 +171,7 @@ public class Alumno {
     }
 
     /**
-     * Selecciona un nombre aleatorio de la lista de nombres.
+     * Selecciona un nombre aleatorio de la lista de nombres proporcionada.
      *
      * @param listaNombres Lista de nombres desde la cual seleccionar.
      * @return El nombre seleccionado aleatoriamente.
@@ -188,6 +216,11 @@ public class Alumno {
         return semestre;
     }
     
+    /**
+     * Genera un número de cuenta aleatorio para el estudiante.
+     *
+     * @return El número de cuenta generado.
+     */
     public String generaNumCuenta (){
         Random random = new Random();
         StringBuilder sb = new StringBuilder();
@@ -201,6 +234,33 @@ public class Alumno {
         return numCuenta;    
     }
 
+    /**
+     * Actualiza el nombre completo del estudiante con un nuevo nombre proporcionado.
+     *
+     * @param nuevoNombre El nuevo nombre completo a establecer.
+     */
+    public void actualizarNombreCompleto(String nuevoNombre){
+        this.nombreCompleto = nuevoNombre;
+    }
+    
+    /**
+     * Actualiza el número de cuenta del estudiante con un nuevo número proporcionado.
+     *
+     * @param nuevoNumCuenta El nuevo número de cuenta a establecer.
+     */
+    public void actualizarNumCuenta(String nuevoNumCuenta){
+        this.numCuenta = nuevoNumCuenta;
+    }
+    
+    /**
+     * Actualiza la dirección del estudiante con una nueva dirección proporcionada.
+     *
+     * @param nuevaDireccion La nueva dirección a establecer.
+     */
+    public void actualizarDireccion(String nuevaDireccion){
+        this.direccion = nuevaDireccion;
+    }
+    
     
     /**
      * Override del método toString para proporcionar una representación de cadena de la instancia de Alumno.
@@ -212,17 +272,4 @@ public class Alumno {
         return "Alumno{" + "nombreCompleto=" + nombreCompleto + ", edad=" + edad + ", semestreEnCurso=" + semestreEnCurso + ", direccion=" + direccion + ", numCuenta=" + numCuenta + '}';
     }
 
-    
-    
-    
-    
-    /*@Override
-    public String toString() {
-        return "Alumno{" +
-                "nombreCompleto='" + nombreCompleto + '\'' +
-                ", edad=" + edad +
-                ", semestreEnCurso=" + semestreEnCurso +
-                ", direccion='" + direccion + '\'' +
-                '}';
-    }*/
 }

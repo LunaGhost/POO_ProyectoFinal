@@ -4,70 +4,43 @@
  */
 package poo_proyecto_final;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 /**
- *
+ * Clase principal que contiene el método main para iniciar la ejecución del programa.
+ * Este programa representa un sistema de Servicios Escolares.
+ * Se requiere una contraseña para acceder al sistema, y una vez ingresada correctamente,
+ * se llama al método inicio() de la clase Sistema para comenzar la interacción con el usuario.
  * @author EquipoC
  */
 public class POO_PROYECTO_FINAL {
 
     /**
-     * @param args the command line arguments
+     * Método principal que inicia la ejecución del programa.
+     * @param args Los argumentos de la línea de comandos (no se utilizan en este caso).
+     * @throws IOException Excepción lanzada en caso de problemas de entrada/salida.
      */
     public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        Sistema sistem = new Sistema();
-        List<Alumno> alumnos = new ArrayList<>();
-        try (Scanner scanner = new Scanner(System.in)) {
-            //float indicadorEscolar, escolaridad,velocidad;
-            sistem.crearAlumnos(10, alumnos);
-            
-            do {
-                System.out.println("### Buscar alumno ###");
-                System.out.println("1. Buscar alumno");
-                System.out.println("2. Imprimir alumnos");
-                System.out.println("3. Salir");
+        Scanner teclado = new Scanner(System.in);
+        Sistema sistema = new Sistema(); // Instancia de la clase Sistema para gestionar el sistema.
+        String password = "equipoC123"; // Contraseña requerida para acceder al sistema.
 
-                // Solicitar la entrada del usuario
-                System.out.print("Seleccione una opción: ");
-                int opcion = scanner.nextInt();
+        System.out.println("---Bienvenido al Sistema Servicios Escolares---");
 
-                // Switch para manejar las opciones
-                switch (opcion) {
-                    case 1 -> {
-                        // Obtener el número de cuenta del usuario
-                        System.out.print("Ingrese el número de cuenta del alumno a buscar: ");
-                        String numCuentaBuscar = reader.readLine();
+        // Bucle principal que solicita la contraseña hasta que se ingrese correctamente.
+        while (true) {
+            System.out.print("Ingresa contraseña:");
+            String contra = teclado.nextLine();
 
-                        // Buscar alumno por número de cuenta en el archivo CSV
-                        sistem.buscarAlumnoPorCuenta(numCuentaBuscar);
-                        System.out.println("### OPCIONES ###");
-                        System.out.println("1. Modificar");
-                        System.out.println("2. Eliminar");
-                        System.out.println("3. Regresar");
-                        System.out.print("Seleccione una opción: ");
-                        int opcion2 = scanner.nextInt();
-                        switch (opcion2) {
-                            case 1 -> System.out.println("Modificanding");
-                            case 2 -> System.out.println("Eliminanding");
-                            case 3 -> System.out.println("");
-                            default -> System.out.println("Opción no válida");
-                        }
-                    }
-                    case 2 -> sistem.imprimirAlumnos(alumnos);
-                    case 3 -> {
-                        System.out.println("Saliendo del programa. ¡Hasta luego!");
-                        System.exit(0);
-                        }
-                    default -> System.out.println("Opción no válida");
-                }
-            } while (true); // El bucle se repetirá hasta que el usuario elija la opción 3
+            // Verifica si la contraseña ingresada es correcta.
+            if (contra.equals(password)) {
+                System.out.println("Contraseña correcta. Acceso concedido al sistema.");
+                sistema.inicio(); // Llama al método inicio() de la clase Sistema.
+                break; // Rompe el ciclo ya que la contraseña es correcta.
+            } else {
+                System.out.println("Contraseña incorrecta. Por favor, inténtelo de nuevo.");
+            }
         }
     }
 }
